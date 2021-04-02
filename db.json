@@ -1,0 +1,19 @@
+{
+  "com.winwinzo.goldwinzo.playwinzogold": {
+    "localad_url": "",
+    "check_livetv_mode": "off",
+    "livetv_url": "http://68.183.85.1:8081/live/digi4/playlist.m3u8",
+    "qureka_url": "http://725.win.qureka.com/",
+    "check_qureka_mode": "off",
+    "admob_appid": "",
+    "admob_interid": "",
+    "admob_bannerid": "",
+    "admob_nativebannerid": "",
+    "admob_appopenid": "",
+    "fb_interid": "",
+    "fb_bannerid": "",
+    "fb_native_bannerid": "",
+    "fb_nativeid": "",
+    "unity_interid": ""
+  }
+}
