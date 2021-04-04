@@ -1,4 +1,4 @@
 # zxdesignstudio
 
-1. Winzo 1
+1. Winzo gold 1
 2. Thop tv 1
