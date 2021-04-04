@@ -16,7 +16,7 @@
     "fb_nativeid": "",
     "unity_interid": ""
   },
-   "com.thopstream.livecricket.thopstv": {
+  "com.thopstream.livecricket.thopstv": {
     "localad_url": "",
     "check_livetv_mode": "on",
     "livetv_url": "http://68.183.85.1:8081/live/digi4/playlist.m3u8",
