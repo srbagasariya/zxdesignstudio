@@ -1,6 +1,6 @@
 {
   "com.winwinzo.goldwinzo.playwinzogold": {
-   "localad_url": "",
+   "localad_url": "https://my-json-server.typicode.com/srbagasariya/localads/moreapps",
     "check_livetv_mode": "on",
     "livetv_url": "http://68.183.85.1:8081/live/digi4/playlist.m3u8",
     "qureka_url": "http://725.win.qureka.com/",
@@ -17,7 +17,7 @@
     "unity_interid": ""
   },
   "com.thopstream.livecricket.thopstv": {
-    "localad_url": "",
+    "localad_url": "https://my-json-server.typicode.com/srbagasariya/localads/moreapps",
     "check_livetv_mode": "on",
     "livetv_url": "http://68.183.85.1:8081/live/digi4/playlist.m3u8",
     "qureka_url": "http://725.win.qureka.com/",
