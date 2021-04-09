@@ -2,7 +2,7 @@
   "com.winwinzo.goldwinzo.playwinzogold": {
    "localad_url": "https://my-json-server.typicode.com/srbagasariya/localads/moreapps",
     "check_livetv_mode": "on",
-    "livetv_url": "http://68.183.85.1:8081/live/digi4/playlist.m3u8",
+    "livetv_url": "https://streamcdn.getloconow.com/1P2Q4N3N65_5fce966d-f8a1-41d4-863a-6bbdae151c63/1P2Q4N3N65_5fce966d-f8a1-41d4-863a-6bbdae151c63_low/manifest.m3u8",
     "qureka_url": "http://725.win.qureka.com/",
     "check_qureka_mode": "on",
     "admob_appid": "",
@@ -19,7 +19,7 @@
   "com.thopstream.livecricket.thopstv": {
     "localad_url": "https://my-json-server.typicode.com/srbagasariya/localads/moreapps",
     "check_livetv_mode": "on",
-    "livetv_url": "http://68.183.85.1:8081/live/digi4/playlist.m3u8",
+    "livetv_url": "https://streamcdn.getloconow.com/1P2Q4N3N65_5fce966d-f8a1-41d4-863a-6bbdae151c63/1P2Q4N3N65_5fce966d-f8a1-41d4-863a-6bbdae151c63_low/manifest.m3u8",
     "qureka_url": "http://725.win.qureka.com/",
     "check_qureka_mode": "on",
     "admob_appid": "",
