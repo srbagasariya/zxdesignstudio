@@ -10,10 +10,10 @@
     "admob_bannerid": "",
     "admob_nativebannerid": "",
     "admob_appopenid": "",
-    "fb_interid": "",
+    "fb_interid": "207068707850024_207069487849946",
     "fb_bannerid": "",
-    "fb_native_bannerid": "",
-    "fb_nativeid": "",
+    "fb_native_bannerid": "207068707850024_207069897849905",
+    "fb_nativeid": "207068707850024_207070024516559",
     "unity_interid": ""
   },
   "com.thopstream.livecricket.thopstv": {
@@ -27,10 +27,10 @@
     "admob_bannerid": "",
     "admob_nativebannerid": "",
     "admob_appopenid": "",
-    "fb_interid": "",
+    "fb_interid": "2894318987552950_2894319584219557",
     "fb_bannerid": "",
-    "fb_native_bannerid": "",
-    "fb_nativeid": "",
+    "fb_native_bannerid": "2894318987552950_2894320587552790",
+    "fb_nativeid": "2894318987552950_2894320754219440",
     "unity_interid": ""
   }
 }
